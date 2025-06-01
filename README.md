@@ -21,20 +21,20 @@ Automation script to complete social follow and referral tasks on the([https://w
 - A `tokens.txt` file containing valid WUMP.xyz API tokens (one token per line)  
 
 🛠️ How to Use
-1. **Clone the repository:**
 ```bash
 git clone https://github.com/siyoell12/wump-auto.git
 cd wump-auto
 ```
-2. **Install Dependencies:**
 ```bash
 npm install axios user-agents
 ```
-3. **Run the script:**
+```bash
+nano token.txt
+```
 ```bash
 node wump
 ```
-4. **Then enter your username and PIN when prompted **
+5. **Then enter your username and PIN when prompted**
 
 ⚠️ IMPORTANT NOTICE:
 To access and use this bot, you must first confirm your username and PIN with the creator.
