@@ -14,11 +14,6 @@ Automation script to complete social follow and referral tasks on the([https://w
 
 ---
 
-## Requirements
-
-- Node.js version 16 or higher  
-- A `users.json` file containing username and PIN data  
-- A `tokens.txt` file containing valid WUMP.xyz API tokens (one token per line)  
 
 🛠️ How to Use
 ```bash
