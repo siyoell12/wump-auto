@@ -34,7 +34,7 @@ npm install axios user-agents
 ```bash
 node wump
 ```
-Then enter your username and PIN when prompted.
+4. **Then enter your username and PIN when prompted **
 
 ⚠️ IMPORTANT NOTICE:
 To access and use this bot, you must first confirm your username and PIN with the creator.
