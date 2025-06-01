@@ -32,7 +32,7 @@ npm install axios user-agents
 ```
 3. **Run the script:**
 ```bash
-node wump.js
+node wump
 ```
 **Contact & Social Media**
 If you have any questions, need assistance, or want to request username and PIN access, please contact me via one of the following:
