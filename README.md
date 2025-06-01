@@ -6,7 +6,6 @@ Automation script to complete social follow and referral tasks on the([https://w
 
 ## Key Features
 
-- Login system using username and PIN from the `users.json` file  
 - Automatically processes multiple tokens from the `tokens.txt` file  
 - Randomizes User-Agent to avoid bot detection  
 - Supports completing `social_follow` and `referral` task types  
