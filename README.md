@@ -37,11 +37,11 @@ node wump
 **Contact & Social Media**
 If you have any questions, need assistance, or want to request username and PIN access, please contact me via one of the following:
 
-Email: [deasaputra12@gmail.com]
+Email : deasaputra12@gmail.com
 
-Telegram: https://t.me/deasaputra12)
+Telegram : https://t.me/deasaputra12
 
-Twitter: https://twitter.com/Deasaputra_12
+Twitter : https://twitter.com/Deasaputra_12
 
 
 **Disclaimer:**
