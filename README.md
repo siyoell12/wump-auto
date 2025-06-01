@@ -1,4 +1,4 @@
-# WUMP Auto Task
+# WUMP AUTO TAKS
 
 Automation script to complete social follow and referral tasks on the([https://wump.xyz](https://wump.xyz/join?ref=1126353569172422817) platform using API tokens. This script allows you to run multiple accounts automatically with username and PIN-based login.
 
