@@ -34,6 +34,14 @@ npm install axios user-agents
 ```bash
 node wump
 ```
+Then enter your username and PIN when prompted.
+
+⚠️ IMPORTANT NOTICE:
+To access and use this bot, you must first confirm your username and PIN with the creator.
+Username and PIN credentials are only provided to verified users to ensure security and proper usage.
+
+If the login is successful, the script will start processing the tokens.
+
 **Contact & Social Media**
 If you have any questions, need assistance, or want to request username and PIN access, please contact me via one of the following:
 
