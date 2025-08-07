@@ -37,20 +37,16 @@ Username and PIN credentials are only provided to verified users to ensure secur
 
 If the login is successful, the script will start processing the tokens.
 
-## Contact & Social Media
+## 🌐 Komunitas & Sosial Media
 
-If you have any questions, need assistance, or want to request username and PIN access, please contact me via one of the following:
+Ingin berdiskusi, bertanya, atau berbagi ide? Bergabunglah dengan komunitas kami!
 
-Email : deasaputra12@gmail.com
+💬 Telegram Group: [t.me/airdropindependen](https://t.me/independendropers)
 
-Telegram : https://t.me/deasaputra12
+🐦 Twitter/X: [twitter.com/deasaputra12](https://x.com/Deasaputra_12)
 
-Twitter : https://twitter.com/Deasaputra_12
+🎮 Discord Server: [discord.gg/airdropindependen](https://discord.gg/Tuy2bR6CkU)
 
-
-**Disclaimer:**
-
-The login credentials are purely for simulation purposes and are not connected to any real authentication system. Use this app for educational or personal automation only.
 
 ## Buy Me a Coffee
 
